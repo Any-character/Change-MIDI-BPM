@@ -132,7 +132,7 @@ LANG = {
     }
 }
 
-current_lang = 'zh'
+current_lang = 'en'
 
 
 def get_tempo_from_midi(midi_file):
